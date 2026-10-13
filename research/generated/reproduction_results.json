@@ -1,0 +1,54 @@
+{
+  "binary_discovery": {
+    "rejected_negative_samples": [
+      {
+        "window": 1,
+        "witness": [
+          2,
+          2
+        ]
+      },
+      {
+        "window": 2,
+        "witness": [
+          4,
+          4
+        ]
+      },
+      {
+        "window": 3,
+        "witness": [
+          52,
+          16
+        ]
+      }
+    ],
+    "recovered_machines": [
+      {
+        "example": "negative_forced",
+        "window": 4,
+        "states": 53
+      },
+      {
+        "example": "labyrinth",
+        "window": 6,
+        "states": 254
+      }
+    ]
+  },
+  "delannoy_small_powers": [
+    {
+      "modulus": 3,
+      "polynomial_states": 3,
+      "minimal_lsd_states": 3,
+      "minimization_rounds": 1
+    },
+    {
+      "modulus": 9,
+      "polynomial_states": 58,
+      "minimal_lsd_states": 58,
+      "minimization_rounds": 2
+    }
+  ],
+  "paper_images_match_regenerated_pixels": true
+}

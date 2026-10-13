@@ -1,0 +1,104 @@
+{
+  "group_checks": {
+    "H3_associativity_triples": 19683,
+    "endomorphism_pairs_per_map": 6561,
+    "central_image_pairs": 6561
+  },
+  "genuine_homomorphism": {
+    "size": 243,
+    "distinct_values": 39,
+    "interior_noncommuting_positions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "values": [
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        0,
+        2
+      ]
+    ],
+    "commutator": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "central_nonzero_cells": 37856
+  },
+  "negative_ordered_product": {
+    "size": 243,
+    "distinct_values": 27,
+    "independent_weight_order_square": 35,
+    "cells_changed_by_reversing_multiplication": 17737,
+    "nonzero_central_witness": {
+      "position": [
+        2,
+        2
+      ],
+      "value": [
+        0,
+        2,
+        2
+      ]
+    },
+    "interior_noncommuting_positions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "values": [
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        2,
+        0
+      ]
+    ],
+    "commutator": [
+      0,
+      0,
+      1
+    ]
+  },
+  "palette3": [
+    [
+      247,
+      245,
+      239
+    ],
+    [
+      40,
+      116,
+      142
+    ],
+    [
+      204,
+      91,
+      70
+    ]
+  ],
+  "coordinate_convention": "m down; n right; 0 through 242 inclusive"
+}
